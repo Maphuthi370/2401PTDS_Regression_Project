@@ -63,7 +63,7 @@ To carry out all the objectives for this repo, the following necessary dependenc
 + `Pandas 2.2.2` and `Numpy 1.26`
 + `Matplotlib 3.8.4`
 
-##### Creating the coding environment  
+##### Creating the coding enviroment  
 ##### Step 1: Install Anaconda
 This will install Python, Jupyter Notebook, and other useful packages.
 
