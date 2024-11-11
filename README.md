@@ -62,8 +62,8 @@ Emissions from the agri-food sector play a crucial role in climate change, as th
 To carry out all the objectives for this repo, the following necessary dependencies were loaded:
 + `Pandas 2.2.2` and `Numpy 1.26`
 + `Matplotlib 3.8.4`
-  
-  ##### Creating the coding environment  
+
+##### Creating the coding environment  
 ##### Step 1: Install Anaconda
 This will install Python, Jupyter Notebook, and other useful packages.
 
@@ -135,7 +135,9 @@ Data cleaning is a crucial step in the data analysis process, involving the corr
 To give a better understanding of the variables and the relationships between them, we set out to do an **Exploratory Data Analysis (EDA)** of our dataset. The main tasks includes investigating and summarizing the dataframe's main characteristics by data visualization methods and statistical analyses. Furthermore, investigating the dataset’s key features, summarizing its central characteristics, and employing both data visualisation techniques and statistical analyses to draw meaningful insights that can guide further research and data-driven decision making.
 
  ##### Feature Engineering
-
+ We are preprocessing the data to later understand the relationship between various variables related to CO2 emissions in the agri-food sector and the increase 
+ in temperatures, which will be our target for the Machine learning part of the project.
+ 
  ##### Modelling 
  We are preprocessing the data to later understand the relationship between various variables related to CO2 emissions in the agri-food sector and the increase 
  in temperatures, which will be our target for the Machine learning part of the project.
